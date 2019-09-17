@@ -1,0 +1,19 @@
+
+h2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+a:link {
+  color: orange;
+  font-weight: bold;
+}
+div {
+  text-align: left;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: black;
+}
